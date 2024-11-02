@@ -1,7 +1,6 @@
 
 ### 2. Création et rédaction du fichier CONTRIBUTING
 
-Le fichier **CONTRIBUTING.md** explique comment les autres peuvent contribuer à ton projet. Voici un exemple :
 
 ```markdown
 # Contribuer à Nom du projet
