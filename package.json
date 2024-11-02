@@ -1,0 +1,18 @@
+{
+  "name": "projet-git",
+  "version": "1.0.0",
+  "description": "- 创建项目\r - 创建README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.14.0",
+    "eslint": "^9.14.0",
+    "eslint-plugin-react": "^7.37.2",
+    "globals": "^15.11.0"
+  }
+}
