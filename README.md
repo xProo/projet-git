@@ -3,6 +3,7 @@
 Ce document décrit les différentes étapes et fonctionnalités mises en place pour notre projet, notamment l'utilisation des branches, des hooks Git, des workflows GitHub Actions, et les messages d'erreur associés aux hooks.
 
 ## Table des matières
+
 - [Premiers Commits](#premiers-commits)
 - [Configuration des Branches et de Git Flow](#configuration-des-branches-et-de-git-flow)
 - [Hooks Git et Messages d'Erreur](#hooks-git-et-messages-derreur)
@@ -31,27 +32,29 @@ Dans ce projet, nous avons suivi le **Git Flow**, en créant plusieurs branches 
 - `hotfix/*` : branches pour les corrections urgentes de bugs sur la branche `main`.
 
 ### Processus Git Flow
+
 1. **Création d'une nouvelle branche** :
    ```bash
    git checkout develop
    git checkout -b feature/nom-de-la-fonctionnalité
-
+   ```
 
 ### first commit
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
-
-
 
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
 
 ### message d'erreur lorsque le commit est bloqué par le hook.
+
 ![alt text](image-4.png)
 
 ### message d'erreur lorsque le commit est bloqué par le hook.
+
 ![alt text](image-5.png)
 µ
 ![alt text](image-6.png)
@@ -61,3 +64,5 @@ Dans ce projet, nous avons suivi le **Git Flow**, en créant plusieurs branches 
 ![alt text](image-8.png)
 
 ![alt text](image-9.png)
+
+###Commit signé
