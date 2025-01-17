@@ -69,3 +69,11 @@ Dans ce projet, nous avons suivi le **Git Flow**, en créant plusieurs branches 
 
 ![image](https://github.com/user-attachments/assets/9d08f3bf-28e5-458a-bf95-3830688a5b1c)
 
+
+
+
+###lint mail
+
+![image](https://github.com/user-attachments/assets/b97c0ffc-92aa-4703-b6ea-4c443d092dee)
+
+
