@@ -66,3 +66,6 @@ Dans ce projet, nous avons suivi le **Git Flow**, en créant plusieurs branches 
 ![alt text](image-9.png)
 
 ###Commit signé
+
+![image](https://github.com/user-attachments/assets/9d08f3bf-28e5-458a-bf95-3830688a5b1c)
+
